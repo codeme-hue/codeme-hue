@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kardi
 #### I am Android Developer
-![I am Android Developer](https://github.com/kardihaekal/kardihaeekal/blob/master/banner%20(1).png)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kardihaekal&show_icons=true)  
 
 I am ready to help you in solving problems in the field of android development.
 
@@ -17,7 +17,6 @@ Skills: ANDROID STUDIO / JAVA / KOTLIN / / PYTHON / R / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kardihaekal)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kardihaekal&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardihaekal)](https://github.com/anuraghazra/github-readme-stats)
 
