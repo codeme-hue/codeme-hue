@@ -41,7 +41,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=nextjs&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kardi-h-98a5b4136) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kardihaekal/)
-
